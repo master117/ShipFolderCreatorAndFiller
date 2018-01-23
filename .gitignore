@@ -1,0 +1,11 @@
+*.suo
+.vs/
+
+/ShipFolderCreatorAndFiller/api.txt
+/ShipFolderCreatorAndFiller/user.txt
+
+/ShipFolderCreatorAndFiller/bin/
+/ShipFolderCreatorAndFiller/obj/
+
+packages/**/*
+!packages/repositories.config
